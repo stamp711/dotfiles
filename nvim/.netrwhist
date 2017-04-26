@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/stamp/.dockerapps/rainbow_config.json'
+let g:netrw_dirhist_2='/Users/stamp/Projects/os/dockerapps/gcc'
+let g:netrw_dirhist_3='/Users/stamp/Projects/os/.git'
+let g:netrw_dirhist_4='/Users/stamp/.zsh'
+let g:netrw_dirhist_5='/Users/stamp/Projects/github/stamp711/dotfiles/zsh/completions'
+let g:netrw_dirhist_6='/Users/stamp/Projects/playground/rust'
+let g:netrw_dirhist_7='/Users/stamp/Projects/playground'
+let g:netrw_dirhist_8='/Users/stamp/Documents/Course/数图处理/Lab/yolo-octo-bugfixes/js'
